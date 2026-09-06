@@ -1,4 +1,4 @@
-const visitedPlaces: TravelPlace[] = [
+const visitedPlaces = [
   {
     id: "rangpur",
     name: "Rangpur",
